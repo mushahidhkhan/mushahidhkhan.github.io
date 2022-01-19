@@ -8,7 +8,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://mushahidhkhan.github.io" target="_blank"><img src="assets/preview.gif">
+    <a href="https://mushahidhkhan.github.io" target="_blank"><img src="assets/preview.png">
   </a>
   </kbd>
 </p>
